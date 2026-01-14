@@ -1,4 +1,4 @@
-# 📄 Hybrid RAG Chatbot with Vision & Web Search
+# 📄 Hybrid RAG Chatbot with Vision & Web Search + Knowledge Graph RAG Chatbot
 
 A powerful multimodal chatbot built with Streamlit that combines **Retrieval-Augmented Generation (RAG)**, **Vision AI**, and **Web Search** to answer questions from PDFs, images, and the internet.
 
