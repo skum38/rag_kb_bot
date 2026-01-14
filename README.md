@@ -1,4 +1,4 @@
-# Solution 1 - Knowledge Graph RAG Chatbot
+# Knowledge Graph RAG Chatbot
 A powerful document question-answering system that combines Vector RAG, Knowledge Graphs, and Web Search for intelligent multi-hop reasoning over PDF documents.
 
 🌟 Features
